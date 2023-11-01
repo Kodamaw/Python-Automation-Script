@@ -1,0 +1,9 @@
+{
+    "python.analysis.autoSearchPaths": true,
+    "python.autoComplete.extraPaths": [
+        "/Users/aaron/OneDrive/Documents/VisualStudioProjects/Python Projects/Python Automation Script/auto.py"
+    ],
+    "python.analysis.extraPaths": [
+        "/Users/aaron/OneDrive/Documents/VisualStudioProjects/Python Projects/Python Automation Script/auto.py"
+    ],
+}
