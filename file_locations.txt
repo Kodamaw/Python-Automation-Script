@@ -1,6 +1,1 @@
-C:/Users/aaron/Downloads
-C:/Users/aaron/Documents/Downloaded Audio
-C:/Users/aaron/Documents/Downloaded VIDs
-C:/Users/aaron/Documents/Downloaded IMGs
-C:/Users/aaron/Documents/Downloaded DOCs
-C:/Users/aaron/Documents/Downloaded MISC
+
